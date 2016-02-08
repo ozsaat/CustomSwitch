@@ -22,7 +22,7 @@
             style="@style/SwitchCompat"
             android:layout_alignParentTop="true"
             android:layout_centerHorizontal="true"
-            app:track="@drawable/track_off"/>
+            app:track="@drawable/custom_track"/>
 
     <Switch android:layout_width="wrap_content"
             android:layout_height="wrap_content"
